@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  height: 200px;
+  position: relative;
+}
+
+.info {
+  position: absolute;
+  width: 100%;
+  color: white;
+  text-align: center;
+  top: 10px;
+}
+
+.container-text {
+  height: 200px;
+}
